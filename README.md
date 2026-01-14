@@ -1,6 +1,6 @@
-**Economic Inequality, GDP per Capita and Economic Freedom (Data Analysis Project)**
+*****Economic Inequality, GDP per Capita and Economic Freedom (Data Analysis Project)*****
 
-**Project Overview**
+***Project Overview***
 
 This project investigates the **relationship between GDP per capita**, **economic inequality (Gini Index)**, and **economic freedom** across countries.
 
@@ -54,28 +54,28 @@ Columns include:
 * Sub-indexes (Fiscal Health, Government Size, Property Rights, etc.)
 
 
-🧠 **Objectives of the Analysis**
+**Objectives of the Analysis**
 
 The project focuses on three main goals:
 
-**1️⃣ Explore the evolution of inequality over time**
+** 1-Explore the evolution of inequality over time**
 
 * Identify trends in Gini Index for selected countries
 * Compare inequality between continents and political systems
 
-**2️⃣ Evaluate the correlation between GDP per capita and inequality**
+**2-Evaluate the correlation between GDP per capita and inequality**
 
 * Are richer countries more equal?
 * Does higher GDP lead to reduced inequality?
 
-**3️⃣ Investigate the relationship between economic freedom and both indicators**
+**2-Investigate the relationship between economic freedom and both indicators**
 
 * Do freer economies tend to be richer?
 * Are they also more equal?
 * How do the worst-ranked countries differ from the top-ranked ones?
 
 
-## 🛠️ **Technologies Used**
+##**Technologies Used**
 
 The analysis was performed in Python using:
 
@@ -94,7 +94,7 @@ Libraries/features included:
 * **VS Code Jupyter Notebook** → interactive analysis
 
 
-## 📊 **Main Visualizations**
+##**Main Visualizations**
 
 The notebook includes:
 
@@ -104,7 +104,7 @@ The notebook includes:
 * Highlighted comparisons between selected countries
 
 
-📈 **Insights Expected**
+**Insights Expected**
 
 Throughout the analysis, the project aims to examine:
 
